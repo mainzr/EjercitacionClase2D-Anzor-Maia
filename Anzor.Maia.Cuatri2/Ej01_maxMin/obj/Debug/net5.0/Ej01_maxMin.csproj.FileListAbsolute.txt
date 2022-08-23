@@ -1,0 +1,16 @@
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01_maxMin\bin\Debug\net5.0\Ej01_maxMin.exe
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01_maxMin\bin\Debug\net5.0\Ej01_maxMin.deps.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01_maxMin\bin\Debug\net5.0\Ej01_maxMin.runtimeconfig.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01_maxMin\bin\Debug\net5.0\Ej01_maxMin.runtimeconfig.dev.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01_maxMin\bin\Debug\net5.0\Ej01_maxMin.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01_maxMin\bin\Debug\net5.0\ref\Ej01_maxMin.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01_maxMin\bin\Debug\net5.0\Ej01_maxMin.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01_maxMin\obj\Debug\net5.0\Ej01_maxMin.csproj.AssemblyReference.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01_maxMin\obj\Debug\net5.0\Ej01_maxMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01_maxMin\obj\Debug\net5.0\Ej01_maxMin.AssemblyInfoInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01_maxMin\obj\Debug\net5.0\Ej01_maxMin.AssemblyInfo.cs
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01_maxMin\obj\Debug\net5.0\Ej01_maxMin.csproj.CoreCompileInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01_maxMin\obj\Debug\net5.0\Ej01_maxMin.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01_maxMin\obj\Debug\net5.0\ref\Ej01_maxMin.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01_maxMin\obj\Debug\net5.0\Ej01_maxMin.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01_maxMin\obj\Debug\net5.0\Ej01_maxMin.genruntimeconfig.cache

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Introduccion", "Introduccion", "{AACB9FA3-F600-4639-803D-8582EC912781}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej01_maxMin", "Ej01_maxMin\Ej01_maxMin.csproj", "{C85E8FAB-F64D-4C36-9973-87DFB51CF8FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase 00", "Clase 00", "{32FB8C97-732A-485C-8F4F-55A0C69F74E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ej-02-ErrorAlCubo", "ej-02-ErrorAlCubo\ej-02-ErrorAlCubo.csproj", "{7DD52843-DBE2-42B5-ADA8-7E46C08E08C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C85E8FAB-F64D-4C36-9973-87DFB51CF8FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C85E8FAB-F64D-4C36-9973-87DFB51CF8FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C85E8FAB-F64D-4C36-9973-87DFB51CF8FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C85E8FAB-F64D-4C36-9973-87DFB51CF8FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DD52843-DBE2-42B5-ADA8-7E46C08E08C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD52843-DBE2-42B5-ADA8-7E46C08E08C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD52843-DBE2-42B5-ADA8-7E46C08E08C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD52843-DBE2-42B5-ADA8-7E46C08E08C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AACB9FA3-F600-4639-803D-8582EC912781} = {32FB8C97-732A-485C-8F4F-55A0C69F74E7}
+		{C85E8FAB-F64D-4C36-9973-87DFB51CF8FC} = {AACB9FA3-F600-4639-803D-8582EC912781}
+		{7DD52843-DBE2-42B5-ADA8-7E46C08E08C1} = {AACB9FA3-F600-4639-803D-8582EC912781}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E34C3AFE-306C-4AD0-91E1-82D5B6213541}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-02-ErrorAlCubo\bin\Debug\net5.0\ej-02-ErrorAlCubo.exe
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-02-ErrorAlCubo\bin\Debug\net5.0\ej-02-ErrorAlCubo.deps.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-02-ErrorAlCubo\bin\Debug\net5.0\ej-02-ErrorAlCubo.runtimeconfig.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-02-ErrorAlCubo\bin\Debug\net5.0\ej-02-ErrorAlCubo.runtimeconfig.dev.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-02-ErrorAlCubo\bin\Debug\net5.0\ej-02-ErrorAlCubo.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-02-ErrorAlCubo\bin\Debug\net5.0\ref\ej-02-ErrorAlCubo.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-02-ErrorAlCubo\bin\Debug\net5.0\ej-02-ErrorAlCubo.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-02-ErrorAlCubo\obj\Debug\net5.0\ej-02-ErrorAlCubo.csproj.AssemblyReference.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-02-ErrorAlCubo\obj\Debug\net5.0\ej-02-ErrorAlCubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-02-ErrorAlCubo\obj\Debug\net5.0\ej-02-ErrorAlCubo.AssemblyInfoInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-02-ErrorAlCubo\obj\Debug\net5.0\ej-02-ErrorAlCubo.AssemblyInfo.cs
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-02-ErrorAlCubo\obj\Debug\net5.0\ej-02-ErrorAlCubo.csproj.CoreCompileInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-02-ErrorAlCubo\obj\Debug\net5.0\ej-02-ErrorAlCubo.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-02-ErrorAlCubo\obj\Debug\net5.0\ref\ej-02-ErrorAlCubo.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-02-ErrorAlCubo\obj\Debug\net5.0\ej-02-ErrorAlCubo.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-02-ErrorAlCubo\obj\Debug\net5.0\ej-02-ErrorAlCubo.genruntimeconfig.cache
