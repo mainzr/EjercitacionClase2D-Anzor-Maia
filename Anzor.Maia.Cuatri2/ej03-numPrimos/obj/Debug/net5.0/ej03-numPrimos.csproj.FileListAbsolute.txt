@@ -1,0 +1,16 @@
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej03-numPrimos\bin\Debug\net5.0\ej03-numPrimos.exe
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej03-numPrimos\bin\Debug\net5.0\ej03-numPrimos.deps.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej03-numPrimos\bin\Debug\net5.0\ej03-numPrimos.runtimeconfig.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej03-numPrimos\bin\Debug\net5.0\ej03-numPrimos.runtimeconfig.dev.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej03-numPrimos\bin\Debug\net5.0\ej03-numPrimos.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej03-numPrimos\bin\Debug\net5.0\ref\ej03-numPrimos.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej03-numPrimos\bin\Debug\net5.0\ej03-numPrimos.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej03-numPrimos\obj\Debug\net5.0\ej03-numPrimos.csproj.AssemblyReference.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej03-numPrimos\obj\Debug\net5.0\ej03-numPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej03-numPrimos\obj\Debug\net5.0\ej03-numPrimos.AssemblyInfoInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej03-numPrimos\obj\Debug\net5.0\ej03-numPrimos.AssemblyInfo.cs
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej03-numPrimos\obj\Debug\net5.0\ej03-numPrimos.csproj.CoreCompileInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej03-numPrimos\obj\Debug\net5.0\ej03-numPrimos.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej03-numPrimos\obj\Debug\net5.0\ref\ej03-numPrimos.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej03-numPrimos\obj\Debug\net5.0\ej03-numPrimos.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej03-numPrimos\obj\Debug\net5.0\ej03-numPrimos.genruntimeconfig.cache
