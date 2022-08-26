@@ -1,0 +1,15 @@
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-DeseaContinuar\bin\Debug\net5.0\Ej02-DeseaContinuar.exe
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-DeseaContinuar\bin\Debug\net5.0\Ej02-DeseaContinuar.deps.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-DeseaContinuar\bin\Debug\net5.0\Ej02-DeseaContinuar.runtimeconfig.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-DeseaContinuar\bin\Debug\net5.0\Ej02-DeseaContinuar.runtimeconfig.dev.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-DeseaContinuar\bin\Debug\net5.0\Ej02-DeseaContinuar.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-DeseaContinuar\bin\Debug\net5.0\ref\Ej02-DeseaContinuar.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-DeseaContinuar\bin\Debug\net5.0\Ej02-DeseaContinuar.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-DeseaContinuar\obj\Debug\net5.0\Ej02-DeseaContinuar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-DeseaContinuar\obj\Debug\net5.0\Ej02-DeseaContinuar.AssemblyInfoInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-DeseaContinuar\obj\Debug\net5.0\Ej02-DeseaContinuar.AssemblyInfo.cs
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-DeseaContinuar\obj\Debug\net5.0\Ej02-DeseaContinuar.csproj.CoreCompileInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-DeseaContinuar\obj\Debug\net5.0\Ej02-DeseaContinuar.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-DeseaContinuar\obj\Debug\net5.0\ref\Ej02-DeseaContinuar.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-DeseaContinuar\obj\Debug\net5.0\Ej02-DeseaContinuar.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-DeseaContinuar\obj\Debug\net5.0\Ej02-DeseaContinuar.genruntimeconfig.cache

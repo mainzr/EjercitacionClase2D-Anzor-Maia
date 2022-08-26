@@ -1,0 +1,16 @@
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej06-ReciboDeSueldo\bin\Debug\net5.0\ej06-ReciboDeSueldo.exe
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej06-ReciboDeSueldo\bin\Debug\net5.0\ej06-ReciboDeSueldo.deps.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej06-ReciboDeSueldo\bin\Debug\net5.0\ej06-ReciboDeSueldo.runtimeconfig.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej06-ReciboDeSueldo\bin\Debug\net5.0\ej06-ReciboDeSueldo.runtimeconfig.dev.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej06-ReciboDeSueldo\bin\Debug\net5.0\ej06-ReciboDeSueldo.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej06-ReciboDeSueldo\bin\Debug\net5.0\ref\ej06-ReciboDeSueldo.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej06-ReciboDeSueldo\bin\Debug\net5.0\ej06-ReciboDeSueldo.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej06-ReciboDeSueldo\obj\Debug\net5.0\ej06-ReciboDeSueldo.csproj.AssemblyReference.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej06-ReciboDeSueldo\obj\Debug\net5.0\ej06-ReciboDeSueldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej06-ReciboDeSueldo\obj\Debug\net5.0\ej06-ReciboDeSueldo.AssemblyInfoInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej06-ReciboDeSueldo\obj\Debug\net5.0\ej06-ReciboDeSueldo.AssemblyInfo.cs
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej06-ReciboDeSueldo\obj\Debug\net5.0\ej06-ReciboDeSueldo.csproj.CoreCompileInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej06-ReciboDeSueldo\obj\Debug\net5.0\ej06-ReciboDeSueldo.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej06-ReciboDeSueldo\obj\Debug\net5.0\ref\ej06-ReciboDeSueldo.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej06-ReciboDeSueldo\obj\Debug\net5.0\ej06-ReciboDeSueldo.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej06-ReciboDeSueldo\obj\Debug\net5.0\ej06-ReciboDeSueldo.genruntimeconfig.cache

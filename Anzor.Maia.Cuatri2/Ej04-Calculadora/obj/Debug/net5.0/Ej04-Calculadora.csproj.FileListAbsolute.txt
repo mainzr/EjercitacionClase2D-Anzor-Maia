@@ -1,0 +1,16 @@
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej04-Calculadora\bin\Debug\net5.0\Ej04-Calculadora.exe
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej04-Calculadora\bin\Debug\net5.0\Ej04-Calculadora.deps.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej04-Calculadora\bin\Debug\net5.0\Ej04-Calculadora.runtimeconfig.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej04-Calculadora\bin\Debug\net5.0\Ej04-Calculadora.runtimeconfig.dev.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej04-Calculadora\bin\Debug\net5.0\Ej04-Calculadora.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej04-Calculadora\bin\Debug\net5.0\ref\Ej04-Calculadora.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej04-Calculadora\bin\Debug\net5.0\Ej04-Calculadora.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej04-Calculadora\obj\Debug\net5.0\Ej04-Calculadora.csproj.AssemblyReference.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej04-Calculadora\obj\Debug\net5.0\Ej04-Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej04-Calculadora\obj\Debug\net5.0\Ej04-Calculadora.AssemblyInfoInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej04-Calculadora\obj\Debug\net5.0\Ej04-Calculadora.AssemblyInfo.cs
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej04-Calculadora\obj\Debug\net5.0\Ej04-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej04-Calculadora\obj\Debug\net5.0\Ej04-Calculadora.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej04-Calculadora\obj\Debug\net5.0\ref\Ej04-Calculadora.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej04-Calculadora\obj\Debug\net5.0\Ej04-Calculadora.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej04-Calculadora\obj\Debug\net5.0\Ej04-Calculadora.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-ConversorBinario\bin\Debug\net5.0\Ej03-ConversorBinario.exe
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-ConversorBinario\bin\Debug\net5.0\Ej03-ConversorBinario.deps.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-ConversorBinario\bin\Debug\net5.0\Ej03-ConversorBinario.runtimeconfig.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-ConversorBinario\bin\Debug\net5.0\Ej03-ConversorBinario.runtimeconfig.dev.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-ConversorBinario\bin\Debug\net5.0\Ej03-ConversorBinario.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-ConversorBinario\bin\Debug\net5.0\ref\Ej03-ConversorBinario.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-ConversorBinario\bin\Debug\net5.0\Ej03-ConversorBinario.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-ConversorBinario\obj\Debug\net5.0\Ej03-ConversorBinario.csproj.AssemblyReference.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-ConversorBinario\obj\Debug\net5.0\Ej03-ConversorBinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-ConversorBinario\obj\Debug\net5.0\Ej03-ConversorBinario.AssemblyInfoInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-ConversorBinario\obj\Debug\net5.0\Ej03-ConversorBinario.AssemblyInfo.cs
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-ConversorBinario\obj\Debug\net5.0\Ej03-ConversorBinario.csproj.CoreCompileInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-ConversorBinario\obj\Debug\net5.0\Ej03-ConversorBinario.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-ConversorBinario\obj\Debug\net5.0\ref\Ej03-ConversorBinario.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-ConversorBinario\obj\Debug\net5.0\Ej03-ConversorBinario.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-ConversorBinario\obj\Debug\net5.0\Ej03-ConversorBinario.genruntimeconfig.cache

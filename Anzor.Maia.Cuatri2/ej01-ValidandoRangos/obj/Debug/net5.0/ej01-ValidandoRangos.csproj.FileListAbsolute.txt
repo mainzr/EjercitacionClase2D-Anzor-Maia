@@ -1,0 +1,16 @@
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-ValidandoRangos\bin\Debug\net5.0\ej01-ValidandoRangos.exe
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-ValidandoRangos\bin\Debug\net5.0\ej01-ValidandoRangos.deps.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-ValidandoRangos\bin\Debug\net5.0\ej01-ValidandoRangos.runtimeconfig.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-ValidandoRangos\bin\Debug\net5.0\ej01-ValidandoRangos.runtimeconfig.dev.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-ValidandoRangos\bin\Debug\net5.0\ej01-ValidandoRangos.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-ValidandoRangos\bin\Debug\net5.0\ref\ej01-ValidandoRangos.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-ValidandoRangos\bin\Debug\net5.0\ej01-ValidandoRangos.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-ValidandoRangos\obj\Debug\net5.0\ej01-ValidandoRangos.csproj.AssemblyReference.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-ValidandoRangos\obj\Debug\net5.0\ej01-ValidandoRangos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-ValidandoRangos\obj\Debug\net5.0\ej01-ValidandoRangos.AssemblyInfoInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-ValidandoRangos\obj\Debug\net5.0\ej01-ValidandoRangos.AssemblyInfo.cs
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-ValidandoRangos\obj\Debug\net5.0\ej01-ValidandoRangos.csproj.CoreCompileInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-ValidandoRangos\obj\Debug\net5.0\ej01-ValidandoRangos.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-ValidandoRangos\obj\Debug\net5.0\ref\ej01-ValidandoRangos.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-ValidandoRangos\obj\Debug\net5.0\ej01-ValidandoRangos.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-ValidandoRangos\obj\Debug\net5.0\ej01-ValidandoRangos.genruntimeconfig.cache

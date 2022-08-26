@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ej-05-TirameUnCentro/1.0.0": {
+        "runtime": {
+          "ej-05-TirameUnCentro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ej-05-TirameUnCentro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

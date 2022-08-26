@@ -1,0 +1,16 @@
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-05-TirameUnCentro\bin\Debug\net5.0\ej-05-TirameUnCentro.exe
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-05-TirameUnCentro\bin\Debug\net5.0\ej-05-TirameUnCentro.deps.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-05-TirameUnCentro\bin\Debug\net5.0\ej-05-TirameUnCentro.runtimeconfig.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-05-TirameUnCentro\bin\Debug\net5.0\ej-05-TirameUnCentro.runtimeconfig.dev.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-05-TirameUnCentro\bin\Debug\net5.0\ej-05-TirameUnCentro.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-05-TirameUnCentro\bin\Debug\net5.0\ref\ej-05-TirameUnCentro.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-05-TirameUnCentro\bin\Debug\net5.0\ej-05-TirameUnCentro.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-05-TirameUnCentro\obj\Debug\net5.0\ej-05-TirameUnCentro.csproj.AssemblyReference.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-05-TirameUnCentro\obj\Debug\net5.0\ej-05-TirameUnCentro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-05-TirameUnCentro\obj\Debug\net5.0\ej-05-TirameUnCentro.AssemblyInfoInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-05-TirameUnCentro\obj\Debug\net5.0\ej-05-TirameUnCentro.AssemblyInfo.cs
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-05-TirameUnCentro\obj\Debug\net5.0\ej-05-TirameUnCentro.csproj.CoreCompileInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-05-TirameUnCentro\obj\Debug\net5.0\ej-05-TirameUnCentro.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-05-TirameUnCentro\obj\Debug\net5.0\ref\ej-05-TirameUnCentro.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-05-TirameUnCentro\obj\Debug\net5.0\ej-05-TirameUnCentro.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-05-TirameUnCentro\obj\Debug\net5.0\ej-05-TirameUnCentro.genruntimeconfig.cache

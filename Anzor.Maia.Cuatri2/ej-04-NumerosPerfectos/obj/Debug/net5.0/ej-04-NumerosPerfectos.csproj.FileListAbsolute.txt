@@ -1,0 +1,15 @@
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-04-NumerosPerfectos\bin\Debug\net5.0\ej-04-NumerosPerfectos.exe
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-04-NumerosPerfectos\bin\Debug\net5.0\ej-04-NumerosPerfectos.deps.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-04-NumerosPerfectos\bin\Debug\net5.0\ej-04-NumerosPerfectos.runtimeconfig.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-04-NumerosPerfectos\bin\Debug\net5.0\ej-04-NumerosPerfectos.runtimeconfig.dev.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-04-NumerosPerfectos\bin\Debug\net5.0\ej-04-NumerosPerfectos.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-04-NumerosPerfectos\bin\Debug\net5.0\ref\ej-04-NumerosPerfectos.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-04-NumerosPerfectos\bin\Debug\net5.0\ej-04-NumerosPerfectos.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-04-NumerosPerfectos\obj\Debug\net5.0\ej-04-NumerosPerfectos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-04-NumerosPerfectos\obj\Debug\net5.0\ej-04-NumerosPerfectos.AssemblyInfoInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-04-NumerosPerfectos\obj\Debug\net5.0\ej-04-NumerosPerfectos.AssemblyInfo.cs
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-04-NumerosPerfectos\obj\Debug\net5.0\ej-04-NumerosPerfectos.csproj.CoreCompileInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-04-NumerosPerfectos\obj\Debug\net5.0\ej-04-NumerosPerfectos.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-04-NumerosPerfectos\obj\Debug\net5.0\ref\ej-04-NumerosPerfectos.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-04-NumerosPerfectos\obj\Debug\net5.0\ej-04-NumerosPerfectos.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej-04-NumerosPerfectos\obj\Debug\net5.0\ej-04-NumerosPerfectos.genruntimeconfig.cache

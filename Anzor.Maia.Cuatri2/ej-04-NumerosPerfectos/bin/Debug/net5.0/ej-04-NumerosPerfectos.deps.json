@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ej-04-NumerosPerfectos/1.0.0": {
+        "runtime": {
+          "ej-04-NumerosPerfectos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ej-04-NumerosPerfectos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

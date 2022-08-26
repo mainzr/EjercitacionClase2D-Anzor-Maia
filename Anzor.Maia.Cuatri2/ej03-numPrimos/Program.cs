@@ -14,22 +14,21 @@ namespace ej03_numPrimos
             string respuestaIngresar;
             string numeroIngresado;
             bool esNumero;
-            int numeroInt;
-
             do
             {
 
                 Console.WriteLine("Ingrese un  numero: ");
                 numeroIngresado = Console.ReadLine();
-                esNumero = int.TryParse(numeroIngresado, out numeroInt);
+                esNumero = int.TryParse(numeroIngresado, out _);
               
                 if(esNumero)
                 {
+                    Console.Write($"Numeros  primos: ");
                     for (int i = 2; i < int.Parse(numeroIngresado); i++)
                     {
                         if ((int.Parse(numeroIngresado) % i) != 0)
                         {
-                            Console.WriteLine($"*Numeros  primos: {i}");
+                            Console.Write($"{i};");
                         }
 
                     }
@@ -40,7 +39,7 @@ namespace ej03_numPrimos
                 }
                 
 
-                Console.WriteLine("\nDesea ingresar otro numero? (si/no)");
+                Console.WriteLine("\n\nDesea ingresar otro numero? (si/no)");
                 respuestaIngresar = Console.ReadLine();
 
             } while (respuestaIngresar != "no");

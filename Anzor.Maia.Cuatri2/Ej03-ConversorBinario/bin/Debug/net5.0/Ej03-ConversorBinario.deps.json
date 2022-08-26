@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ej03-ConversorBinario/1.0.0": {
+        "runtime": {
+          "Ej03-ConversorBinario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ej03-ConversorBinario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
