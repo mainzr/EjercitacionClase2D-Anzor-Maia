@@ -1,0 +1,11 @@
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-EntidadesPOO\bin\Debug\net5.0\Ej03-EntidadesPOO.deps.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-EntidadesPOO\bin\Debug\net5.0\Ej03-EntidadesPOO.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-EntidadesPOO\bin\Debug\net5.0\ref\Ej03-EntidadesPOO.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-EntidadesPOO\bin\Debug\net5.0\Ej03-EntidadesPOO.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-EntidadesPOO\obj\Debug\net5.0\Ej03-EntidadesPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-EntidadesPOO\obj\Debug\net5.0\Ej03-EntidadesPOO.AssemblyInfoInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-EntidadesPOO\obj\Debug\net5.0\Ej03-EntidadesPOO.AssemblyInfo.cs
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-EntidadesPOO\obj\Debug\net5.0\Ej03-EntidadesPOO.csproj.CoreCompileInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-EntidadesPOO\obj\Debug\net5.0\Ej03-EntidadesPOO.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-EntidadesPOO\obj\Debug\net5.0\ref\Ej03-EntidadesPOO.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej03-EntidadesPOO\obj\Debug\net5.0\Ej03-EntidadesPOO.pdb

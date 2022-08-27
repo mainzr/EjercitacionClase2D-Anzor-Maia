@@ -1,0 +1,11 @@
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01-CreoNecesitoUnPrestamo\bin\Debug\net5.0\Ej01-CreoNecesitoUnPrestamo-Entidades.deps.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01-CreoNecesitoUnPrestamo\bin\Debug\net5.0\Ej01-CreoNecesitoUnPrestamo-Entidades.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01-CreoNecesitoUnPrestamo\bin\Debug\net5.0\ref\Ej01-CreoNecesitoUnPrestamo-Entidades.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01-CreoNecesitoUnPrestamo\bin\Debug\net5.0\Ej01-CreoNecesitoUnPrestamo-Entidades.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01-CreoNecesitoUnPrestamo\obj\Debug\net5.0\Ej01-CreoNecesitoUnPrestamo-Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01-CreoNecesitoUnPrestamo\obj\Debug\net5.0\Ej01-CreoNecesitoUnPrestamo-Entidades.AssemblyInfoInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01-CreoNecesitoUnPrestamo\obj\Debug\net5.0\Ej01-CreoNecesitoUnPrestamo-Entidades.AssemblyInfo.cs
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01-CreoNecesitoUnPrestamo\obj\Debug\net5.0\Ej01-CreoNecesitoUnPrestamo-Entidades.csproj.CoreCompileInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01-CreoNecesitoUnPrestamo\obj\Debug\net5.0\Ej01-CreoNecesitoUnPrestamo-Entidades.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01-CreoNecesitoUnPrestamo\obj\Debug\net5.0\ref\Ej01-CreoNecesitoUnPrestamo-Entidades.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej01-CreoNecesitoUnPrestamo\obj\Debug\net5.0\Ej01-CreoNecesitoUnPrestamo-Entidades.pdb

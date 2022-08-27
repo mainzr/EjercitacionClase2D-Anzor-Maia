@@ -1,0 +1,11 @@
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-Entidades\bin\Debug\net5.0\Ej02-Entidades.deps.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-Entidades\bin\Debug\net5.0\Ej02-Entidades.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-Entidades\bin\Debug\net5.0\ref\Ej02-Entidades.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-Entidades\bin\Debug\net5.0\Ej02-Entidades.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-Entidades\obj\Debug\net5.0\Ej02-Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-Entidades\obj\Debug\net5.0\Ej02-Entidades.AssemblyInfoInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-Entidades\obj\Debug\net5.0\Ej02-Entidades.AssemblyInfo.cs
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-Entidades\obj\Debug\net5.0\Ej02-Entidades.csproj.CoreCompileInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-Entidades\obj\Debug\net5.0\Ej02-Entidades.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-Entidades\obj\Debug\net5.0\ref\Ej02-Entidades.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-Entidades\obj\Debug\net5.0\Ej02-Entidades.pdb

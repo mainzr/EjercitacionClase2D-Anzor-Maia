@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Ej01_NecesitoUnPrestamo_Program</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ej01-CreoNecesitoUnPrestamo\Ej01-CreoNecesitoUnPrestamo-Entidades.csproj" />
+  </ItemGroup>
+
+</Project>

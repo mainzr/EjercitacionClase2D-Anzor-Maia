@@ -1,0 +1,16 @@
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej05-AprendeteLasTablas\bin\Debug\net5.0\Ej05-AprendeteLasTablas.exe
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej05-AprendeteLasTablas\bin\Debug\net5.0\Ej05-AprendeteLasTablas.deps.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej05-AprendeteLasTablas\bin\Debug\net5.0\Ej05-AprendeteLasTablas.runtimeconfig.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej05-AprendeteLasTablas\bin\Debug\net5.0\Ej05-AprendeteLasTablas.runtimeconfig.dev.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej05-AprendeteLasTablas\bin\Debug\net5.0\Ej05-AprendeteLasTablas.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej05-AprendeteLasTablas\bin\Debug\net5.0\ref\Ej05-AprendeteLasTablas.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej05-AprendeteLasTablas\bin\Debug\net5.0\Ej05-AprendeteLasTablas.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej05-AprendeteLasTablas\obj\Debug\net5.0\Ej05-AprendeteLasTablas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej05-AprendeteLasTablas\obj\Debug\net5.0\Ej05-AprendeteLasTablas.AssemblyInfoInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej05-AprendeteLasTablas\obj\Debug\net5.0\Ej05-AprendeteLasTablas.AssemblyInfo.cs
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej05-AprendeteLasTablas\obj\Debug\net5.0\Ej05-AprendeteLasTablas.csproj.CoreCompileInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej05-AprendeteLasTablas\obj\Debug\net5.0\Ej05-AprendeteLasTablas.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej05-AprendeteLasTablas\obj\Debug\net5.0\ref\Ej05-AprendeteLasTablas.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej05-AprendeteLasTablas\obj\Debug\net5.0\Ej05-AprendeteLasTablas.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej05-AprendeteLasTablas\obj\Debug\net5.0\Ej05-AprendeteLasTablas.genruntimeconfig.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej05-AprendeteLasTablas\obj\Debug\net5.0\Ej05-AprendeteLasTablas.csproj.AssemblyReference.cache
