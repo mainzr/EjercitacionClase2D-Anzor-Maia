@@ -1,0 +1,12 @@
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-Entidades-Cotizador\bin\Debug\net5.0\Ej02-Entidades-Cotizador.deps.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-Entidades-Cotizador\bin\Debug\net5.0\Ej02-Entidades-Cotizador.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-Entidades-Cotizador\bin\Debug\net5.0\ref\Ej02-Entidades-Cotizador.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-Entidades-Cotizador\bin\Debug\net5.0\Ej02-Entidades-Cotizador.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-Entidades-Cotizador\obj\Debug\net5.0\Ej02-Entidades-Cotizador.csproj.AssemblyReference.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-Entidades-Cotizador\obj\Debug\net5.0\Ej02-Entidades-Cotizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-Entidades-Cotizador\obj\Debug\net5.0\Ej02-Entidades-Cotizador.AssemblyInfoInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-Entidades-Cotizador\obj\Debug\net5.0\Ej02-Entidades-Cotizador.AssemblyInfo.cs
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-Entidades-Cotizador\obj\Debug\net5.0\Ej02-Entidades-Cotizador.csproj.CoreCompileInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-Entidades-Cotizador\obj\Debug\net5.0\Ej02-Entidades-Cotizador.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-Entidades-Cotizador\obj\Debug\net5.0\ref\Ej02-Entidades-Cotizador.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\Ej02-Entidades-Cotizador\obj\Debug\net5.0\Ej02-Entidades-Cotizador.pdb

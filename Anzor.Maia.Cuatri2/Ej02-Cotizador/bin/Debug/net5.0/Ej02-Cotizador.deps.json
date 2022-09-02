@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ej02-Cotizador/1.0.0": {
+        "dependencies": {
+          "Ej02-Entidades-Cotizador": "1.0.0"
+        },
+        "runtime": {
+          "Ej02-Cotizador.dll": {}
+        }
+      },
+      "Ej02-Entidades-Cotizador/1.0.0": {
+        "runtime": {
+          "Ej02-Entidades-Cotizador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ej02-Cotizador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ej02-Entidades-Cotizador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

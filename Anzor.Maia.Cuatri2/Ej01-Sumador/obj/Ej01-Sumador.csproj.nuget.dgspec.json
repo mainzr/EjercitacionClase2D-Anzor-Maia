@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\maiam\\source\\repos\\Anzor.Maia.Cuatri2\\Ej01-Sumador\\Ej01-Sumador.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\maiam\\source\\repos\\Anzor.Maia.Cuatri2\\Ej01-Entidades-Sobrecarga\\Ej01-Entidades-Sobrecarga.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maiam\\source\\repos\\Anzor.Maia.Cuatri2\\Ej01-Entidades-Sobrecarga\\Ej01-Entidades-Sobrecarga.csproj",
+        "projectName": "Ej01-Entidades-Sobrecarga",
+        "projectPath": "C:\\Users\\maiam\\source\\repos\\Anzor.Maia.Cuatri2\\Ej01-Entidades-Sobrecarga\\Ej01-Entidades-Sobrecarga.csproj",
+        "packagesPath": "C:\\Users\\maiam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maiam\\source\\repos\\Anzor.Maia.Cuatri2\\Ej01-Entidades-Sobrecarga\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maiam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\maiam\\source\\repos\\Anzor.Maia.Cuatri2\\Ej01-Sumador\\Ej01-Sumador.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maiam\\source\\repos\\Anzor.Maia.Cuatri2\\Ej01-Sumador\\Ej01-Sumador.csproj",
+        "projectName": "Ej01-Sumador",
+        "projectPath": "C:\\Users\\maiam\\source\\repos\\Anzor.Maia.Cuatri2\\Ej01-Sumador\\Ej01-Sumador.csproj",
+        "packagesPath": "C:\\Users\\maiam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maiam\\source\\repos\\Anzor.Maia.Cuatri2\\Ej01-Sumador\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maiam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\maiam\\source\\repos\\Anzor.Maia.Cuatri2\\Ej01-Entidades-Sobrecarga\\Ej01-Entidades-Sobrecarga.csproj": {
+                "projectPath": "C:\\Users\\maiam\\source\\repos\\Anzor.Maia.Cuatri2\\Ej01-Entidades-Sobrecarga\\Ej01-Entidades-Sobrecarga.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

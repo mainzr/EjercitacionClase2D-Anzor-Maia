@@ -51,25 +51,43 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ej05-AprendeteLasTablas", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "POO", "POO", "{493A1DB2-A05C-4230-8389-EB4B1AAE70DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej01-CreoNecesitoUnPrestamo-Entidades", "Ej01-CreoNecesitoUnPrestamo\Ej01-CreoNecesitoUnPrestamo-Entidades.csproj", "{34EC3626-87BA-48D0-8CFC-7E7E1BC0D5B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ej01-CreoNecesitoUnPrestamo-Entidades", "Ej01-CreoNecesitoUnPrestamo\Ej01-CreoNecesitoUnPrestamo-Entidades.csproj", "{34EC3626-87BA-48D0-8CFC-7E7E1BC0D5B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej01-NecesitoUnPrestamo-Program", "Ej01-NecesitoUnPrestamo-Program\Ej01-NecesitoUnPrestamo-Program.csproj", "{82B12989-5327-412E-BF7E-6D340A78FB85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ej01-NecesitoUnPrestamo-Program", "Ej01-NecesitoUnPrestamo-Program\Ej01-NecesitoUnPrestamo-Program.csproj", "{82B12989-5327-412E-BF7E-6D340A78FB85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej02-Entidades", "Ej02-Entidades\Ej02-Entidades.csproj", "{F6AF946A-12F9-4A79-89C4-E03ABD447482}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ej02-Entidades", "Ej02-Entidades\Ej02-Entidades.csproj", "{F6AF946A-12F9-4A79-89C4-E03ABD447482}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej02-VosCuantasPrimaverasTenes", "Ej02-VosCuantasPrimaverasTenes\Ej02-VosCuantasPrimaverasTenes.csproj", "{F573E885-657A-4B9D-81E3-5050A9B6BC24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ej02-VosCuantasPrimaverasTenes", "Ej02-VosCuantasPrimaverasTenes\Ej02-VosCuantasPrimaverasTenes.csproj", "{F573E885-657A-4B9D-81E3-5050A9B6BC24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej03-EntidadesPOO", "Ej03-EntidadesPOO\Ej03-EntidadesPOO.csproj", "{A4C0E7CF-03E5-4409-9493-A8C0641B05D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ej03-EntidadesPOO", "Ej03-EntidadesPOO\Ej03-EntidadesPOO.csproj", "{A4C0E7CF-03E5-4409-9493-A8C0641B05D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ej03-EjemploUniversal", "ej03-EjemploUniversal\ej03-EjemploUniversal.csproj", "{A15A074C-A7F7-4CD6-A17C-9DC6C1A145D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ej03-EjemploUniversal", "ej03-EjemploUniversal\ej03-EjemploUniversal.csproj", "{A15A074C-A7F7-4CD6-A17C-9DC6C1A145D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ej04-Entidades-POO", "ej04-Entidades-POO\ej04-Entidades-POO.csproj", "{FD97169E-DCFF-45B2-ABF9-8D40F239F4CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ej04-Entidades-POO", "ej04-Entidades-POO\ej04-Entidades-POO.csproj", "{FD97169E-DCFF-45B2-ABF9-8D40F239F4CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej04-InventoArgentino", "Ej04-InventoArgentino\Ej04-InventoArgentino.csproj", "{A716AE70-4064-447E-87DC-9263BAA50D35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ej04-InventoArgentino", "Ej04-InventoArgentino\Ej04-InventoArgentino.csproj", "{A716AE70-4064-447E-87DC-9263BAA50D35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej05-Entidades-POO", "Ej05-Entidades-POO\Ej05-Entidades-POO.csproj", "{94428850-4F12-4E2B-AF21-E4A91BEB88E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ej05-Entidades-POO", "Ej05-Entidades-POO\Ej05-Entidades-POO.csproj", "{94428850-4F12-4E2B-AF21-E4A91BEB88E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej05-PruebaDeGeometria", "Ej05-PruebaDeGeometria\Ej05-PruebaDeGeometria.csproj", "{E03525C0-AD8C-4FD0-861D-F15289088328}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ej05-PruebaDeGeometria", "Ej05-PruebaDeGeometria\Ej05-PruebaDeGeometria.csproj", "{E03525C0-AD8C-4FD0-861D-F15289088328}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase 3", "Clase 3", "{AE8E10CB-CCEB-4FF7-B42C-B282ABE19ED3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sobrecarga", "Sobrecarga", "{5D52660A-BDCB-4856-A799-4002CACC7D1A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ej01-Entidades-Sobrecarga", "Ej01-Entidades-Sobrecarga\Ej01-Entidades-Sobrecarga.csproj", "{C74E9355-89C0-4054-906C-E78F29232B44}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ej01-Sumador", "Ej01-Sumador\Ej01-Sumador.csproj", "{3D97C99B-DF87-48E3-8A14-CB893EFF5B1F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ej02-Entidades-Cotizador", "Ej02-Entidades-Cotizador\Ej02-Entidades-Cotizador.csproj", "{FC1AC3A4-AD5F-4E8C-8CCC-E867950F91C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej02-Cotizador", "Ej02-Cotizador\Ej02-Cotizador.csproj", "{230C8F03-FA54-4988-848C-181BD9E93527}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase 4", "Clase 4", "{CDBAE03B-7E83-4133-9B8B-678F25410A1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Encapsulamiento", "Encapsulamiento", "{91AF5027-ADD8-4FC9-99DC-4B5451E084ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ej01-Entidades-Encapsulamiento", "ej01-Entidades-Encapsulamiento\ej01-Entidades-Encapsulamiento.csproj", "{A3364DBC-7253-4A5F-99DD-68187061023E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -181,6 +199,26 @@ Global
 		{E03525C0-AD8C-4FD0-861D-F15289088328}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E03525C0-AD8C-4FD0-861D-F15289088328}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E03525C0-AD8C-4FD0-861D-F15289088328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C74E9355-89C0-4054-906C-E78F29232B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74E9355-89C0-4054-906C-E78F29232B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74E9355-89C0-4054-906C-E78F29232B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74E9355-89C0-4054-906C-E78F29232B44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D97C99B-DF87-48E3-8A14-CB893EFF5B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D97C99B-DF87-48E3-8A14-CB893EFF5B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D97C99B-DF87-48E3-8A14-CB893EFF5B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D97C99B-DF87-48E3-8A14-CB893EFF5B1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC1AC3A4-AD5F-4E8C-8CCC-E867950F91C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1AC3A4-AD5F-4E8C-8CCC-E867950F91C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1AC3A4-AD5F-4E8C-8CCC-E867950F91C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1AC3A4-AD5F-4E8C-8CCC-E867950F91C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{230C8F03-FA54-4988-848C-181BD9E93527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230C8F03-FA54-4988-848C-181BD9E93527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230C8F03-FA54-4988-848C-181BD9E93527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230C8F03-FA54-4988-848C-181BD9E93527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3364DBC-7253-4A5F-99DD-68187061023E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3364DBC-7253-4A5F-99DD-68187061023E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3364DBC-7253-4A5F-99DD-68187061023E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3364DBC-7253-4A5F-99DD-68187061023E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -215,6 +253,13 @@ Global
 		{A716AE70-4064-447E-87DC-9263BAA50D35} = {493A1DB2-A05C-4230-8389-EB4B1AAE70DC}
 		{94428850-4F12-4E2B-AF21-E4A91BEB88E4} = {493A1DB2-A05C-4230-8389-EB4B1AAE70DC}
 		{E03525C0-AD8C-4FD0-861D-F15289088328} = {493A1DB2-A05C-4230-8389-EB4B1AAE70DC}
+		{5D52660A-BDCB-4856-A799-4002CACC7D1A} = {AE8E10CB-CCEB-4FF7-B42C-B282ABE19ED3}
+		{C74E9355-89C0-4054-906C-E78F29232B44} = {5D52660A-BDCB-4856-A799-4002CACC7D1A}
+		{3D97C99B-DF87-48E3-8A14-CB893EFF5B1F} = {5D52660A-BDCB-4856-A799-4002CACC7D1A}
+		{FC1AC3A4-AD5F-4E8C-8CCC-E867950F91C3} = {5D52660A-BDCB-4856-A799-4002CACC7D1A}
+		{230C8F03-FA54-4988-848C-181BD9E93527} = {5D52660A-BDCB-4856-A799-4002CACC7D1A}
+		{91AF5027-ADD8-4FC9-99DC-4B5451E084ED} = {CDBAE03B-7E83-4133-9B8B-678F25410A1A}
+		{A3364DBC-7253-4A5F-99DD-68187061023E} = {91AF5027-ADD8-4FC9-99DC-4B5451E084ED}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E34C3AFE-306C-4AD0-91E1-82D5B6213541}
