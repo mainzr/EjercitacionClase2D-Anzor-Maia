@@ -1,0 +1,11 @@
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-Entidades-Encapsulamiento\bin\Debug\net5.0\ej01-Entidades-Encapsulamiento.deps.json
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-Entidades-Encapsulamiento\bin\Debug\net5.0\ej01-Entidades-Encapsulamiento.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-Entidades-Encapsulamiento\bin\Debug\net5.0\ref\ej01-Entidades-Encapsulamiento.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-Entidades-Encapsulamiento\bin\Debug\net5.0\ej01-Entidades-Encapsulamiento.pdb
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-Entidades-Encapsulamiento\obj\Debug\net5.0\ej01-Entidades-Encapsulamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-Entidades-Encapsulamiento\obj\Debug\net5.0\ej01-Entidades-Encapsulamiento.AssemblyInfoInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-Entidades-Encapsulamiento\obj\Debug\net5.0\ej01-Entidades-Encapsulamiento.AssemblyInfo.cs
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-Entidades-Encapsulamiento\obj\Debug\net5.0\ej01-Entidades-Encapsulamiento.csproj.CoreCompileInputs.cache
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-Entidades-Encapsulamiento\obj\Debug\net5.0\ej01-Entidades-Encapsulamiento.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-Entidades-Encapsulamiento\obj\Debug\net5.0\ref\ej01-Entidades-Encapsulamiento.dll
+C:\Users\maiam\source\repos\Anzor.Maia.Cuatri2\ej01-Entidades-Encapsulamiento\obj\Debug\net5.0\ej01-Entidades-Encapsulamiento.pdb

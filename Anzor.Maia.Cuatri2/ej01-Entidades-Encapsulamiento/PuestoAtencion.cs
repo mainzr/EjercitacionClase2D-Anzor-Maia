@@ -23,7 +23,7 @@ namespace ej01_Entidades_Encapsulamiento
             PuestoAtencion.numeroActual = 0;
         }
 
-        public PuestoAtencion(Puesto puesto) 
+        public PuestoAtencion(Puesto puesto)
         {
             this.puesto = puesto;
         }
@@ -33,11 +33,19 @@ namespace ej01_Entidades_Encapsulamiento
             get { return PuestoAtencion.numeroActual++; }
         }
 
-        public bool Atender(Cliente cli)
+        public static bool Atender(Cliente cli)
         {
-            Thread.Sleep(1000); 
-            if(cli)
+            bool retorno = false;
+
+            if (cli is not null)
+            {
+                Thread.Sleep(1000);
+                retorno = true;
+            }
+            return retorno;
         }
+
+
 
 
     }

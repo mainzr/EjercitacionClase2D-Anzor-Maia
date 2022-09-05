@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Ej02_ConsultasteElIndice_main</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ej02-Entidades-Encapsulamiento\Ej02-Entidades-Encapsulamiento.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ej02-Entidades-Encapsulamiento/1.0.0": {
+        "runtime": {
+          "Ej02-Entidades-Encapsulamiento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ej02-Entidades-Encapsulamiento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

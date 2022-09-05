@@ -81,13 +81,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ej01-Sumador", "Ej01-Sumado
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ej02-Entidades-Cotizador", "Ej02-Entidades-Cotizador\Ej02-Entidades-Cotizador.csproj", "{FC1AC3A4-AD5F-4E8C-8CCC-E867950F91C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej02-Cotizador", "Ej02-Cotizador\Ej02-Cotizador.csproj", "{230C8F03-FA54-4988-848C-181BD9E93527}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ej02-Cotizador", "Ej02-Cotizador\Ej02-Cotizador.csproj", "{230C8F03-FA54-4988-848C-181BD9E93527}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clase 4", "Clase 4", "{CDBAE03B-7E83-4133-9B8B-678F25410A1A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Encapsulamiento", "Encapsulamiento", "{91AF5027-ADD8-4FC9-99DC-4B5451E084ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ej01-Entidades-Encapsulamiento", "ej01-Entidades-Encapsulamiento\ej01-Entidades-Encapsulamiento.csproj", "{A3364DBC-7253-4A5F-99DD-68187061023E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ej01-Entidades-Encapsulamiento", "ej01-Entidades-Encapsulamiento\ej01-Entidades-Encapsulamiento.csproj", "{A3364DBC-7253-4A5F-99DD-68187061023E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej01-PuestoDeAtencion-main", "Ej01-PuestoDeAtencion-main\Ej01-PuestoDeAtencion-main.csproj", "{E2C50542-1E8D-4A74-B7BF-559D3A0A2895}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej02-Entidades-Encapsulamiento", "Ej02-Entidades-Encapsulamiento\Ej02-Entidades-Encapsulamiento.csproj", "{97EDBE3E-B6BB-4907-AB66-23CDEC5261B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej02-ConsultasteElIndice-main", "Ej02-ConsultasteElIndice-main\Ej02-ConsultasteElIndice-main.csproj", "{99720B7C-604E-493A-B3DF-F9BB63B0D348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjC01-Entidades-Colecciones", "EjC01-Entidades-Colecciones\EjC01-Entidades-Colecciones.csproj", "{6D61DA87-119F-4CE4-BC58-950745B7F088}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjC01-EstadisticaDeportiva-main", "EjC01-EstadisticaDeportiva-main\EjC01-EstadisticaDeportiva-main.csproj", "{3C674F88-9AC0-4462-9147-623004B1E3DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +229,26 @@ Global
 		{A3364DBC-7253-4A5F-99DD-68187061023E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3364DBC-7253-4A5F-99DD-68187061023E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3364DBC-7253-4A5F-99DD-68187061023E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C50542-1E8D-4A74-B7BF-559D3A0A2895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C50542-1E8D-4A74-B7BF-559D3A0A2895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C50542-1E8D-4A74-B7BF-559D3A0A2895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C50542-1E8D-4A74-B7BF-559D3A0A2895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97EDBE3E-B6BB-4907-AB66-23CDEC5261B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97EDBE3E-B6BB-4907-AB66-23CDEC5261B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97EDBE3E-B6BB-4907-AB66-23CDEC5261B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97EDBE3E-B6BB-4907-AB66-23CDEC5261B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99720B7C-604E-493A-B3DF-F9BB63B0D348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99720B7C-604E-493A-B3DF-F9BB63B0D348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99720B7C-604E-493A-B3DF-F9BB63B0D348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99720B7C-604E-493A-B3DF-F9BB63B0D348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D61DA87-119F-4CE4-BC58-950745B7F088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D61DA87-119F-4CE4-BC58-950745B7F088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D61DA87-119F-4CE4-BC58-950745B7F088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D61DA87-119F-4CE4-BC58-950745B7F088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C674F88-9AC0-4462-9147-623004B1E3DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C674F88-9AC0-4462-9147-623004B1E3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C674F88-9AC0-4462-9147-623004B1E3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C674F88-9AC0-4462-9147-623004B1E3DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -260,6 +290,11 @@ Global
 		{230C8F03-FA54-4988-848C-181BD9E93527} = {5D52660A-BDCB-4856-A799-4002CACC7D1A}
 		{91AF5027-ADD8-4FC9-99DC-4B5451E084ED} = {CDBAE03B-7E83-4133-9B8B-678F25410A1A}
 		{A3364DBC-7253-4A5F-99DD-68187061023E} = {91AF5027-ADD8-4FC9-99DC-4B5451E084ED}
+		{E2C50542-1E8D-4A74-B7BF-559D3A0A2895} = {91AF5027-ADD8-4FC9-99DC-4B5451E084ED}
+		{97EDBE3E-B6BB-4907-AB66-23CDEC5261B2} = {91AF5027-ADD8-4FC9-99DC-4B5451E084ED}
+		{99720B7C-604E-493A-B3DF-F9BB63B0D348} = {91AF5027-ADD8-4FC9-99DC-4B5451E084ED}
+		{6D61DA87-119F-4CE4-BC58-950745B7F088} = {AA85D516-6629-4F32-AE39-3FC2BD7203AB}
+		{3C674F88-9AC0-4462-9147-623004B1E3DB} = {AA85D516-6629-4F32-AE39-3FC2BD7203AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E34C3AFE-306C-4AD0-91E1-82D5B6213541}
